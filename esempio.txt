@@ -3,3 +3,5 @@ esempio di salvataggio
 seconda modifica
 
 terza modifica
+
+prova uso di stash
