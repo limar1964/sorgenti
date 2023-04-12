@@ -1,1 +1,4 @@
 esempio di nuovo file creato dal master
+
+modifica per .gitignore
+
